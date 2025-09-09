@@ -1,2 +1,3 @@
 hello git
 tôi đang test git
+update file
